@@ -2,8 +2,14 @@ body {
 	background-color: #DDDDDD;
 }
 
-iframe {
-	display: block;
-	margin-top: 20px;
+.flex-parent {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
 }
 
+.video-iframe {
+	width: 178px;
+	height: 100px;
+	margin-bottom: 10px;
+}
