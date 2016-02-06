@@ -2,8 +2,10 @@
   "name": "gvid",
   "version": "1.0.0",
   "description": "A sweet video sharing app",
-  "main": "index.js",
-  "dependencies": {},
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
