@@ -1,0 +1,21 @@
+{
+  "name": "gvid",
+  "version": "1.0.0",
+  "description": "A sweet video sharing app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracemox/gvid.git"
+  },
+  "author": "grace mox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracemox/gvid/issues"
+  },
+  "homepage": "https://github.com/gracemox/gvid#readme"
+}
